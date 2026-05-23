@@ -1,4 +1,3 @@
-# Bike-Sale-Performance-Dashboard-Using-GCP
 # Bike Sales Performance Dashboard using GCP BigQuery and Looker Studio
 
 ## Project Overview
